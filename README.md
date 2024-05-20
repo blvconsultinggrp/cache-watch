@@ -1,6 +1,4 @@
-Sure! Here's a README in markdown format for the script:
-
-# Folder Cleanup Script
+# AdsPower Cache Cleanup Script
 
 This Python script monitors a specified directory and deletes its contents if the total size exceeds a defined limit. The script uses the `watchdog` library to observe changes in the directory and periodically checks the folder size. If the folder size exceeds the limit, it clears all folders except for a specified exempt file.
 
