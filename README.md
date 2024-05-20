@@ -31,7 +31,7 @@ This Python script monitors a specified directory and deletes its contents if th
 2. Update the `folder_path`, `exempt_filename`, `max_size`, and `check_interval` variables in the script as needed.
 3. Run the script:
    ```sh
-   python folder_cleanup.py
+   python main.py or py main.py
    ```
 
 ## Script Configuration
