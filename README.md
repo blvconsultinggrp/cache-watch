@@ -67,10 +67,6 @@ This project is licensed under the MIT License.
 
 - [watchdog](https://pypi.org/project/watchdog/) library for monitoring file system events.
 
-## Contact
-
-For any questions or issues, please contact [Your Name] at [Your Email].
-
 ---
 
-By following the above instructions, you should be able to set up and run the folder cleanup script to monitor and manage your directory effectively.
+By following the above instructions, you should be able to set up and run the cache cleanup script to monitor and manage your directory effectively.
